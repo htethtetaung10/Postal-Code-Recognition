@@ -1,2 +1,2 @@
 # Postal-Code-Recognition
-This project detects a postal code digit by digit and shows the details of the postal code. I have used Debrecen postal code data, and tools such as Python, OpenCV and MongoDB.
+This project detects each digit belonged to a 4-digit postal code and check whether it includes in the postal code database which has all postal codes in Debrecen. If the code exists in the database, show the postal code details. Otherwise, show the error message. I have used tools such as Python, OpenCV and MongoDB.
