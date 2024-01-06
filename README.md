@@ -1,2 +1,2 @@
 # Postal-Code-Recognition
-Image Processing
+This project detects a postal code digit by digit and shows the details of the postal code. I have used Debrecen postal code data.
